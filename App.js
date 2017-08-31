@@ -6,7 +6,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text>Open up App.js to start working on your app!</Text>
-        <Text>Changes you makeff will automatically reload.</Text>
+        <Text>Changes you makefff will automatically reload.</Text>
         <Text>Shake your phone to open the developer menu.</Text>
       </View>
     );
